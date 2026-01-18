@@ -26,9 +26,9 @@ El sistema integra dos etapas principales:
 
 ## 📂 Estructura del proyecto
 
-- `segmentation/`: scripts para entrenamiento y predicción del modelo U-Net.
-- `data/`: estructura del conjunto de datos (entrenamiento, validación y prueba).
-- `requirements.txt`: dependencias necesarias para la ejecución del proyecto.
+- `Deteccion_Final/`: scripts para entrenamiento y predicción del modelo U-Net.
+- `enlace a los datos/`: estructura del conjunto de datos (entrenamiento, validación y prueba).
+- `requerimientos.txt`: dependencias necesarias para la ejecución del proyecto.
 
 ---
 
