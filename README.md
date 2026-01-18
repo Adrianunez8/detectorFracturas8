@@ -26,9 +26,10 @@ El sistema integra dos etapas principales:
 
 ## 📂 Estructura del proyecto
 
-- `Deteccion_Final/`: scripts para entrenamiento y predicción del modelo U-Net.
+- `Deteccion_tesis_Final/`: scripts para entrenamiento y predicción del modelo U-Net.
 - `enlace a los datos/`: estructura del conjunto de datos (entrenamiento, validación y prueba).
 - `requerimientos.txt`: dependencias necesarias para la ejecución del proyecto.
+- `completo.py`: Script para levantar la interfaz web en la deteccion de fracturas.
 
 ---
 
